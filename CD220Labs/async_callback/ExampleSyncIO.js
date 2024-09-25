@@ -1,4 +1,4 @@
-// Requiring fs module - fs is used for File I/O
+Stefan// Requiring fs module - fs is used for File I/O
 let fs = require('fs');
  
 // Define the filenames to be read
